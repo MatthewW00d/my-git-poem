@@ -1,3 +1,11 @@
 My Poem 
 by Edgar Priednieks
 
+Repositery
+
+Commit
+
+Branch
+
+Pull-request
+
